@@ -1,5 +1,5 @@
-# BOTS authentication proxy
-This repository contains a simple network server that acts as a proxy in between you and a BOTS authentication server.\
+# Robot fighting game authentication proxy
+This repository contains a simple network server that acts as a proxy in between you and a robot fighting game authentication server.\
 The difference between a normal connection and a connection here is that we do not listen to disconnects from the upstream server.
 
 ## How to use
@@ -11,9 +11,6 @@ The difference between a normal connection and a connection here is that we do n
 6. Have fun. The proxy will now relay for you and if you're on Linux, you won't crash.
 
 ## Note
-You can also just ask the owner of the Bots server to enable a flag for your account. This repository effectively does the same thing, but is not really needed.
+You can also just ask the owner of the robot fighting game server to enable a flag for your account. This repository effectively does the same thing, but is not really needed.
 
 Mostly did this for fun.
-
-## Hosted version
-I am thinking about hosting this on a spare server that I have so all you would have to do is change the login IP address to the hosted proxy. Since I'm still unsure whether I should (not everyone thinks I'm the nicest guy because in theory this could be used in a bad way), I haven't done it yet.
